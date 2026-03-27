@@ -1,0 +1,7 @@
+# Required for all backends
+requests>=2.31.0
+
+# For local inference only (requires GPU)
+# tribev2 @ git+https://github.com/facebookresearch/tribev2.git
+# torch>=2.1.0
+# numpy>=1.24.0
